@@ -145,4 +145,5 @@ An interactive dashboard was created in Microsoft Power BI to visualize key metr
 **Poonam Jagdale**
 
 Aspiring Data Analyst
+
 Skills: SQL | Excel | Power BI | Python
