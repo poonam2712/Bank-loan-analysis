@@ -110,6 +110,9 @@ An interactive dashboard was created in Microsoft Power BI to visualize key metr
 * Good Loan vs Bad Loan Ratio
 
 **Dashboard Preview**
+![Dashboard]
+
+![Dashboard]
 
 ![Dashboard](bank_loan_images/bank_loan_details.png)
 
