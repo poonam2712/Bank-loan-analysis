@@ -111,7 +111,7 @@ An interactive dashboard was created in Microsoft Power BI to visualize key metr
 
 **Dashboard Preview**
 
-![Dashboard](images/dashboard.png)
+![Dashboard]C:\Users\DELL\Desktop\bank_loan_images
 
 
 **Project Structure**
